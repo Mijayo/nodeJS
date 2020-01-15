@@ -1,16 +1,16 @@
-// let nombre = 'Diego';
+let nombre = 'Diego';
 
-// console.log(nombre);
+console.log(nombre);
 
-let sql = require('mysql');
+// let sql = require('mysql');
 
-let con = sql.createConnection({
-    host: '',
-    user: '',
-    password: ''
-});
+// let con = sql.createConnection({
+//     host: '',
+//     user: '',
+//     password: ''
+// });
 
-con.connect(function(err) {
-    if (err) throw err;
-    console.log('Connected');
-});
+// con.connect(function(err) {
+//     if (err) throw err;
+//     console.log('Connected');
+// });
