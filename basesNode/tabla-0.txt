@@ -1,0 +1,11 @@
+La multiplicacion de 0 * 0 es igual a 0
+La multiplicacion de 0 * 1 es igual a 0
+La multiplicacion de 0 * 2 es igual a 0
+La multiplicacion de 0 * 3 es igual a 0
+La multiplicacion de 0 * 4 es igual a 0
+La multiplicacion de 0 * 5 es igual a 0
+La multiplicacion de 0 * 6 es igual a 0
+La multiplicacion de 0 * 7 es igual a 0
+La multiplicacion de 0 * 8 es igual a 0
+La multiplicacion de 0 * 9 es igual a 0
+La multiplicacion de 0 * 10 es igual a 0

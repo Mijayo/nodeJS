@@ -1,0 +1,11 @@
+La multiplicacion de 2 * 0 es igual a 0
+La multiplicacion de 2 * 1 es igual a 2
+La multiplicacion de 2 * 2 es igual a 4
+La multiplicacion de 2 * 3 es igual a 6
+La multiplicacion de 2 * 4 es igual a 8
+La multiplicacion de 2 * 5 es igual a 10
+La multiplicacion de 2 * 6 es igual a 12
+La multiplicacion de 2 * 7 es igual a 14
+La multiplicacion de 2 * 8 es igual a 16
+La multiplicacion de 2 * 9 es igual a 18
+La multiplicacion de 2 * 10 es igual a 20
