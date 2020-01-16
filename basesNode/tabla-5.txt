@@ -1,0 +1,11 @@
+La multiplicacion de 5 * 0 es igual a 0
+La multiplicacion de 5 * 1 es igual a 5
+La multiplicacion de 5 * 2 es igual a 10
+La multiplicacion de 5 * 3 es igual a 15
+La multiplicacion de 5 * 4 es igual a 20
+La multiplicacion de 5 * 5 es igual a 25
+La multiplicacion de 5 * 6 es igual a 30
+La multiplicacion de 5 * 7 es igual a 35
+La multiplicacion de 5 * 8 es igual a 40
+La multiplicacion de 5 * 9 es igual a 45
+La multiplicacion de 5 * 10 es igual a 50
