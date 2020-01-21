@@ -2,3 +2,6 @@
 /introNodeJS/node_modules/
 /toDO/node_modules
 /webServer/node_modules/
+/webServer/server/views/index/index.pug
+/webServer/server/views/layouts/index.pug
+/webServer/server/views/nosotros/index.pug

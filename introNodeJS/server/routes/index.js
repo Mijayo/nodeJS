@@ -5,7 +5,7 @@ const router = express.Router();
 module.exports = function() {
 
     router.get('/', (req, res) => {
-        res.render('index', { title: 'Inicio PUG', message: 'DIEGO' });
+        res.render('index');
     });
 
     router.get('/nosotros', (req, res) => {
