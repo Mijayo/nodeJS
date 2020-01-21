@@ -1,6 +1,7 @@
-/clima/node_modules
+/clima/node_modules/
 /introNodeJS/node_modules/
-/toDO/node_modules
+/restServer/node_modules/
+/toDO/node_modules/
 /webServer/node_modules/
 /webServer/server/views/index/index.pug
 /webServer/server/views/layouts/index.pug
