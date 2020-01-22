@@ -8,6 +8,10 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
+#test {
+    font-size: 5em;
+}
+
 h1,
 h2,
 h3 {
@@ -41,7 +45,7 @@ h3 {
 }
 
 .slider {
-    background: url(../img//superior.jpg);
+    background: url('../img//superior.jpg');
     min-height: 600px;
     height: 100vh;
     background-size: cover;
@@ -172,7 +176,7 @@ i {
 }
 
 .testimoniales p::before {
-    background-image: url(../img/quote.jpg);
+    background-image: url('../img/quote.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 40px;
